@@ -73,9 +73,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
+Your Name - [@witchshophub](https://t.me/witchshophub) - 
 
-Project Link: [https://github.com/yourusername/email-validator-php](https://github.com/yourusername/email-validator-php)
+Project Link: [https://github.com/yourusername/email-validator-php](https://github.com/coderprasnt/email-validator)
 
 ## 🙏 Acknowledgements
 
