@@ -24,13 +24,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/email-validator-php.git
+   git clone https://github.com/coderprasnt/email-validator.git
    ```
 
 2. Navigate to the project directory:
 
    ```sh
-   cd email-validator-php
+   cd email-validator
    ```
 
 3. Run the script:
