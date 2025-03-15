@@ -1,13 +1,15 @@
 # 📧 Email Validator in PHP
 
-Welcome to the **Email Validator in PHP** project! This repository contains a simple yet effective email validation script written in PHP. The script checks the email format according to RFC standards and verifies the DNS records of the domain.
+Welcome to the **Email Validator in PHP** project! This repository offers a robust email validation tool written in PHP. Ensure your email addresses are correctly formatted and exist without relying on external dependencies.
 
 ## ✨ Features
 
-- ✅ **RFC 5321 Compliant**: Validates email format according to RFC standards.
-- 🌐 **DNS Verification**: Ensures the domain has valid MX or A records.
-- ⚡ **Lightweight**: No external dependencies or APIs required.
-- 📜 **Easy to Use**: Simple and straightforward implementation.
+- ✅ **Comprehensive Format Validation**: Validates email addresses to ensure they meet standard formatting rules.
+- 🌐 **Domain Verification**: Confirms that the email domain exists and can receive emails.
+- ⚡ **Lightweight and Fast**: Minimal performance overhead.
+- 📜 **Easy Integration**: Simple and straightforward to integrate into your existing PHP projects.
+- 🔒 **Secure**: No external API calls, ensuring your data remains private.
+- 📊 **Detailed Error Reporting**: Provides clear error messages for invalid email addresses.
 
 ## 🚀 Getting Started
 
@@ -39,7 +41,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## 🛠 Usage
 
-To use the email validator, simply call the `isValidEmail` function with the email address you want to validate. Here's an example:
+To use the email validator, simply call the `isValidEmail` function with the email address you want to validate.
 
 ```php
 <?php
@@ -78,17 +80,16 @@ Project Link: [https://github.com/yourusername/email-validator-php](https://gith
 ## 🙏 Acknowledgements
 
 - [PHP Documentation](https://www.php.net/docs.php)
-- [RFC 5321](https://tools.ietf.org/html/rfc5321)
-- [DNS Records](https://en.wikipedia.org/wiki/List_of_DNS_record_types)
+
 
 ## 📷 Screenshots
 
-![Email Validator](https://via.placeholder.com/800x400)
+![Email Validator]
 
 ## 📚 Additional Resources
 
-- [Understanding RFC 5321](https://www.example.com/rfc-5321)
-- [DNS Record Types Explained](https://www.example.com/dns-records)
+- [Understanding Email Validation](https://www.toolsbuy.org/evalidator)
+- [Domain Verification Methods](https://www.example.com/domain-verification-methods)
 
 ## ⭐️ Star the repo
 
